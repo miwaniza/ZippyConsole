@@ -12,10 +12,10 @@ PowerShell console for Autodesk® Vault® would be useful for:
 General Usage Instructions
 ==========================
 
-Run Get-Command -Module ZippyConsole to get all available commands.
-Run Connect-VaultVDF to connect to Vault server with GUI dialog.
-Run Connect-VaultCMD to connect to Vault server with command prompt.
-After connection run Get-VaultVariables to get variables with name like "*v*lt*".
+- Run Get-Command -Module ZippyConsole to get all available commands.
+- Run Connect-VaultVDF to connect to Vault server with GUI dialog.
+- Run Connect-VaultCMD to connect to Vault server with command prompt.
+- After connection run Get-VaultVariables to get variables with name like "*v*lt*".
 
 Additional information
 ======================
